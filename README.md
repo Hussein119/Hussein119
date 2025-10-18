@@ -25,7 +25,7 @@ With a strong foundation in computer science and hands-on experience across mult
 
 ## 💼 Professional Experience
 
-### 💳 **Payment Fintech Senior Specialist** @ Superbay by Etisalat
+### 💳 **Payment Fintech Senior Specialist** @ Superpay by Etisalat
 *September 2024 – Present | Cairo, Egypt*
 
 - 🏗️ Architecting and developing enterprise payment systems using **Spring Boot**
