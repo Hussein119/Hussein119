@@ -1,176 +1,125 @@
-<div align="center">
+# Hussein Abd-Elkader
 
-# 👋 Hi there, I'm Hussein Abd-Elkader
+## Software Engineer — FinTech Specialist
 
-### 🚀 Backend Developer | Software Engineer | Payment Systems Specialist
-
-*Building scalable, efficient systems that power modern applications*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husseinabdelkader/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hussein119.github.io/hussein-abdelkader/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.hussein.abdelkader@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussein119)
-
-</div>
+📍 Cairo, Egypt | 📧 [dev.hussein.abdelkader@gmail.com](mailto:dev.hussein.abdelkader@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/husseinabdelkader) | 💻 [GitHub](https://github.com/Hussein119) | 📱 +20 1004334095
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 Professional Summary
 
-I'm a passionate backend developer with expertise in building **scalable** and **high-performance** systems. Currently crafting payment fintech solutions at **Superbay by Etisalat**, where I work on enterprise-level applications using cutting-edge technologies like Spring Boot and WSO2 ESB.
+Mid-level Backend Developer with **2+ years of experience** specializing in payment systems and fintech solutions. Expert in Spring Boot, Node.js, Go, and WSO2 ESB integrations. Proven track record in building scalable backend systems and integrating with major payment vendors including Orange, WE, Vodafone, e-khales, and Forsa. Strong background in API development, microservices architecture, and database optimization.
 
-With a strong foundation in computer science and hands-on experience across multiple technology stacks, I specialize in designing robust APIs, optimizing database performance, and delivering solutions that make a real impact.
+---
+
+## 🛠️ Technical Skills
+
+**Backend Technologies**  
+`Spring Boot` `Node.js` `Express.js` `Go` `Gin` `.NET` `WSO2 ESB`
+
+**Databases**  
+`MongoDB` `PostgreSQL` `MySQL` `SQL Server`
+
+**Programming Languages**  
+`Java` `JavaScript/TypeScript` `Go` `Python` `C#` `C++`
+
+**API & Integration**  
+`RESTful APIs` `Microservices` `API Management` `Vendor Integration`
+
+**Tools & DevOps**  
+`Git` `Docker` `Linux` `WebRTC` `Socket.IO`
+
+**Concepts**  
+`System Design` `OOP` `Data Structures` `Algorithms` `Payment Processing`
 
 ---
 
 ## 💼 Professional Experience
 
-### 💳 **Payment Fintech Senior Specialist** @ Superpay by Etisalat
-*September 2024 – Present | Cairo, Egypt*
+### E-payment Backend Development Senior Specialist
+**Superpay by Etisalat (e&)** | Cairo, Hybrid  
+*Mar 2025 – Present*
 
-- 🏗️ Architecting and developing enterprise payment systems using **Spring Boot**
-- 🔌 Integrating **WSO2 ESB** for seamless API management and orchestration
-- 📊 Crafting optimized SQL scripts for complex CRUD operations and data management
-- 🤝 Collaborating with cross-functional teams to deliver high-quality fintech solutions
+- Designed and developed high-performance payment processing services using **Spring Boot** handling thousands of transactions daily
+- Spearheaded integration projects with major payment vendors (Orange, WE, Vodafone, e-khales, Forsa) ensuring secure and reliable financial data exchange
+- Architected and managed API ecosystems using **WSO2 ESB**, implementing security policies, rate limiting, and analytics dashboards
+- Optimized SQL queries and database interactions, improving transaction processing efficiency
 
-### 💻 **Backend Developer** @ AVVIO Lighting
-*July 2023 – July 2024 | Budapest, Hungary*
+### Payment Fintech Senior Specialist
+**Superpay by Etisalat (e&)** | Cairo, Hybrid  
+*Sept 2024 – Mar 2025*
 
-- ⚡ Developed robust **RESTful APIs** using Node.js and Express.js
-- 🗄️ Integrated and optimized **MongoDB** and **SQL** databases for commercial applications
-- 🚀 Enhanced backend performance, reducing response times by implementing efficient caching strategies
-- 🔧 Maintained and improved existing microservices architecture
+- Developed core banking APIs using **Spring Boot** for payment initiation, transaction processing, and balance inquiries
+- Implemented **WSO2 ESB** solutions for API mediation, transformation, and security enforcement across multiple services
+- Collaborated with fintech partners to establish secure integration protocols and data exchange standards
+- Maintained and optimized database schemas, writing efficient SQL scripts for CRUD operations and reporting
 
----
+### Backend Developer
+**Avvio Lighting** | Remote  
+*July 2023 – July 2024*
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-</div>
+- Developed RESTful APIs using **Node.js** and **Express.js** for IoT lighting control systems serving international clients
+- Integrated MongoDB and SQL databases, optimizing data retrieval performance for real-time lighting applications
+- Refactored legacy codebase, improving system performance and reducing API response times
+- Implemented authentication and authorization systems securing client data and lighting control access
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Key Projects
 
-### 🎯 [Critch - Team Collaboration Platform](https://github.com/hussein119/critch)
-> A full-stack real-time collaboration platform with seamless video/voice communication
+### [Critch: Team Collaboration Platform](https://github.com/Hussein119/critch)
+**Full Stack Developer** | *June 2024*  
+**Tech Stack:** `React` `Electron` `Golang` `WebRTC`
 
-**Tech Stack:** `Golang` `Gin` `React` `Electron` `WebRTC` `Socket.IO`
+- Engineered real-time collaboration platform with video/voice communication using WebRTC and Socket.IO
+- Developed high-performance backend in Go/Gin handling concurrent user sessions and real-time data sync
+- Designed cross-platform desktop application using React and Electron with native performance
 
-- ✨ Real-time messaging with instant delivery
-- 📁 Efficient file sharing and management
-- 🎥 HD video/voice communication
-- 💻 Cross-platform desktop application
-- 🔒 Secure peer-to-peer connections
+### Payment Integration Hub
+**Backend Architect** | *Oct 2024*  
+**Tech Stack:** `Spring Boot` `WSO2 ESB` `Oracle DB`
 
----
+- Built centralized payment integration system connecting multiple financial institutions and payment processors
+- Implemented secure API gateways with WSO2 ESB for traffic management and threat protection
+- Developed reconciliation modules processing thousands of daily transactions
 
-### 🚗 [Car Service API](https://github.com/hussein119/car-service-api)
-> RESTful API for comprehensive car service management
+### [Car Service Management API](https://github.com/Hussein119/car-service-api)
+**Backend Developer** | *Sept 2023*  
+**Tech Stack:** `Node.js` `MongoDB` `Express`
 
-**Tech Stack:** `Node.js` `Express` `MongoDB`
-
-- 📝 Complete CRUD operations for service records
-- 🔐 Robust authentication and authorization
-- 📊 Service history tracking and analytics
-- 🔧 Maintenance scheduling system
-
----
-
-### 📚 [Archive Management System](https://github.com/hussein119/archive-system)
-> Enterprise-grade faculty archive management solution
-
-**Tech Stack:** `C#` `.NET` `Bootstrap 5` `SQL Server`
-
-- 🗂️ Advanced document management and retrieval
-- 👥 Role-based access control (RBAC)
-- 🔍 Powerful search and filtering capabilities
-- 📈 Document versioning and audit trails
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussein119&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussein119&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hussein119&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
-
-</div>
+- Architected RESTful API for automotive service management with appointment scheduling and inventory tracking
+- Implemented JWT authentication and role-based access control for multi-tenant system
+- [Live API Demo](https://car-service-api.example.com)
 
 ---
 
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-*Assiut University | 2020 – 2024*  
-📚 GPA: 3.03/4.00 | 🏆 Specialized in Software Engineering & Database Systems
+*Assiut University* | Sept 2020 – June 2024  
+GPA: 3.03/4.00
 
 ---
 
-## 💡 What I'm Up To
+## 🏆 Certifications & Achievements
 
-- 🔭 **Currently:** Building payment fintech solutions at scale for enterprise clients
-- 🌱 **Learning:** Deepening expertise in distributed systems, microservices architecture, and cloud-native technologies
-- 👯 **Open to:** Collaborating on innovative backend and full-stack projects
-- 💬 **Ask me about:** Node.js, Spring Boot, Go, API design, system architecture, or anything backend!
-- ⚡ **Fun fact:** I love optimizing code performance and can spend hours shaving off milliseconds!
+- ✅ Delivered **20+ integration projects** with payment vendors, completing 95% ahead of schedule
+- ⚡ Optimized payment processing systems handling increased transaction volume with improved efficiency
+- 🎖️ Recognized with performance awards for rapid integration delivery and system optimization
 
 ---
 
-## 🤝 Let's Connect!
+## 📫 Get In Touch
 
-I'm always excited to connect with fellow developers, discuss tech, or explore collaboration opportunities. Feel free to reach out!
+I'm always interested in hearing about new opportunities and collaborations in the fintech and backend development space. Feel free to reach out!
+
+**Email:** [dev.hussein.abdelkader@gmail.com](mailto:dev.hussein.abdelkader@gmail.com)  
+**LinkedIn:** [husseinabdelkader](https://linkedin.com/in/husseinabdelkader)  
+**GitHub:** [@Hussein119](https://github.com/Hussein119)
+
+---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husseinabdelkader/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hussein119.github.io/hussein-abdelkader/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.hussein.abdelkader@gmail.com)
-
----
-
-### ⭐️ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<img src="https://komarev.com/ghpvc/?username=hussein119&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
-**Made with ❤️ by [Hussein Abd-Elkader](https://github.com/hussein119)**
-
+  <i>⭐ If you find my work interesting, feel free to star my repositories!</i>
 </div>
