@@ -141,11 +141,9 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, **WSO2 ESB**, and **Keyc
 
 <div align="center">
 
-![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussein119&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussein119&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hussein119&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
+| 🗓️ Active Since | 🔥 Contributions | 📅 Longest Streak |
+|:-:|:-:|:-:|
+| Oct 2021 – Present | 359 Total Contributions | 7 days (Dec 15 – Dec 21, 2023) |
 
 </div>
 
@@ -167,16 +165,6 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, **WSO2 ESB**, and **Keyc
 
 ---
 
-## 💡 What I'm Up To
-
-- 🔭 **Currently:** Building enterprise-scale payment fintech solutions at Superpay by Etisalat (e&)
-- 🌱 **Learning:** Deepening expertise in distributed payment systems, microservices architecture, and cloud-native fintech solutions
-- 👯 **Open to:** Collaborating on innovative backend, fintech, and payment integration projects
-- 💬 **Ask me about:** Spring Boot, Node.js, Go, WSO2 ESB, Keycloak, Payment Systems, API design, or anything backend/fintech!
-- ⚡ **Fun fact:** I've integrated with major payment vendors across Egypt and love optimizing transaction processing efficiency!
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always excited to connect with fellow developers, discuss fintech innovations, or explore collaboration opportunities. Feel free to reach out!
@@ -186,12 +174,6 @@ I'm always excited to connect with fellow developers, discuss fintech innovation
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husseinabdelkader/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hussein119.github.io/hussein-abdelkader/)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.hussein.abdelkader@gmail.com)
-
----
-
-### ⭐️ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<img src="https://komarev.com/ghpvc/?username=hussein119&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 **Made with ❤️ by [Hussein Abd-Elkader](https://github.com/hussein119)**
 
