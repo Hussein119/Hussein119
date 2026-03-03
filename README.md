@@ -19,7 +19,7 @@
 
 I'm a passionate backend developer with **2+ years of experience** specializing in **payment systems** and **fintech solutions**. Currently working as an **E-payment Backend Development Senior Specialist** at **Superpay by Etisalat (e&)**, where I architect high-performance payment processing systems handling thousands of daily transactions.
 
-With expertise in **Spring Boot**, **Node.js**, **Go**, and **WSO2 ESB**, I've successfully delivered **20+ integration projects** with major payment vendors including Orange, WE, Vodafone, e-khales, and Forsa—completing 95% ahead of schedule. I thrive on building robust APIs, optimizing database performance, and creating solutions that power the digital payment ecosystem.
+With expertise in **Spring Boot**, **Node.js**, **Go**, **WSO2 ESB**, and **Keycloak**, I've successfully delivered **20+ integration projects** with major payment vendors including Orange, WE, Vodafone, e-khales, and Forsa — completing 95% ahead of schedule. I thrive on building robust APIs, securing distributed systems with modern IAM solutions, and creating backends that power the digital payment ecosystem.
 
 ---
 
@@ -31,6 +31,7 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, and **WSO2 ESB**, I've s
 - 🏗️ Designed and developed high-performance payment processing services using **Spring Boot** handling thousands of transactions daily
 - 🔌 Spearheaded integration projects with major payment vendors (Orange, WE, Vodafone, e-khales, Forsa) ensuring secure and reliable financial data exchange
 - 🛡️ Architected and managed API ecosystems using **WSO2 ESB**, implementing security policies, rate limiting, and analytics dashboards
+- 🔑 Configured and maintained **Keycloak** for centralized identity and access management, enabling SSO and enforcing OAuth2/OIDC security across payment services
 - ⚡ Optimized SQL queries and database interactions, improving transaction processing efficiency
 
 ### 💰 **Payment Fintech Senior Specialist** @ Superpay by Etisalat (e&)
@@ -38,6 +39,7 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, and **WSO2 ESB**, I've s
 
 - 🏦 Developed core banking APIs using **Spring Boot** for payment initiation, transaction processing, and balance inquiries
 - 🔧 Implemented **WSO2 ESB** solutions for API mediation, transformation, and security enforcement across multiple services
+- 🔑 Integrated **Keycloak** for user authentication and authorization, managing realms, clients, and role-based access control for fintech applications
 - 🤝 Collaborated with fintech partners to establish secure integration protocols and data exchange standards
 - 📊 Maintained and optimized database schemas, writing efficient SQL scripts for CRUD operations and reporting
 
@@ -72,6 +74,12 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, and **WSO2 ESB**, I've s
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![WSO2](https://img.shields.io/badge/WSO2_ESB-FF7300?style=for-the-badge&logo=wso2&logoColor=white)
 
+### Security & Identity
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -82,7 +90,7 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, and **WSO2 ESB**, I've s
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-### Tools & Technologies
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -95,13 +103,13 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, and **WSO2 ESB**, I've s
 
 ## 🌟 Featured Projects
 
-### 🎯 [Critch - Team Collaboration Platform](https://github.com/hussein119/critch)
+### 🎯 [Critch — Team Collaboration Platform](https://github.com/hussein119/critch)
 > A full-stack real-time collaboration platform with seamless video/voice communication
 
 **Tech Stack:** `React` `Electron` `Golang` `Gin` `WebRTC` `Socket.IO`
 
-- ✨ Engineered real-time collaboration platform with video/voice communication using WebRTC and Socket.IO
-- 🚀 Developed high-performance backend in Go/Gin handling concurrent user sessions and real-time data sync
+- ✨ Engineered real-time collaboration with video/voice communication using WebRTC and Socket.IO
+- 🚀 Developed high-performance Go/Gin backend handling concurrent sessions and real-time data sync
 - 💻 Designed cross-platform desktop application using React and Electron with native performance
 
 ---
@@ -109,10 +117,11 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, and **WSO2 ESB**, I've s
 ### 💳 Payment Integration Hub
 > Centralized payment integration system connecting multiple financial institutions
 
-**Tech Stack:** `Spring Boot` `WSO2 ESB` `Oracle DB`
+**Tech Stack:** `Spring Boot` `WSO2 ESB` `Keycloak` `Oracle DB`
 
 - 🏗️ Built centralized payment integration system connecting multiple financial institutions and payment processors
 - 🛡️ Implemented secure API gateways with WSO2 ESB for traffic management and threat protection
+- 🔑 Deployed **Keycloak** as the identity provider, enforcing fine-grained access control and token-based authentication across all integrated services
 - 📊 Developed reconciliation modules processing thousands of daily transactions
 
 ---
@@ -124,7 +133,7 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, and **WSO2 ESB**, I've s
 
 - 📝 Architected RESTful API for automotive service management with appointment scheduling and inventory tracking
 - 🔐 Implemented JWT authentication and role-based access control for multi-tenant system
-- 📈 [Live API Demo](https://car-service-api.example.com)
+- 📈 [Live API Demo](https://car-service-7nmt.onrender.com/)
 
 ---
 
@@ -144,8 +153,8 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, and **WSO2 ESB**, I've s
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
-*Assiut University | September 2020 – June 2024*  
+**Bachelor of Science in Computer Science**
+*Assiut University | September 2020 – June 2024*
 📚 GPA: 3.03/4.00
 
 ---
@@ -163,7 +172,7 @@ With expertise in **Spring Boot**, **Node.js**, **Go**, and **WSO2 ESB**, I've s
 - 🔭 **Currently:** Building enterprise-scale payment fintech solutions at Superpay by Etisalat (e&)
 - 🌱 **Learning:** Deepening expertise in distributed payment systems, microservices architecture, and cloud-native fintech solutions
 - 👯 **Open to:** Collaborating on innovative backend, fintech, and payment integration projects
-- 💬 **Ask me about:** Spring Boot, Node.js, Go, WSO2 ESB, Payment Systems, API design, or anything backend/fintech!
+- 💬 **Ask me about:** Spring Boot, Node.js, Go, WSO2 ESB, Keycloak, Payment Systems, API design, or anything backend/fintech!
 - ⚡ **Fun fact:** I've integrated with major payment vendors across Egypt and love optimizing transaction processing efficiency!
 
 ---
